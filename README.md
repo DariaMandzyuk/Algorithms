@@ -1,4 +1,4 @@
 # Algorithms
 
 **Список реализованных задач:**
-- BubbleSort - Написать алгоритм сортировки Пузырьком
+- [BubbleSort](https://github.com/DariaMandzyuk/Algorithms/blob/main/src/main/kotlin/BubbleSort.kt) - Написать алгоритм сортировки Пузырьком
